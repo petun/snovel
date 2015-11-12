@@ -77,29 +77,15 @@
 					<div class="row">
 						<div class="grid_12">
 							<!--=======================-->
-							<h1><a href="index.html">Unitex</a></h1>
+							<h1><a href="index.php">Сновел</a></h1>
 							<nav>
 								<ul class="sf-menu">
-									<li class="current"><a href="index.html">Home</a></li>
-									<li><a href="index-1.html">About</a>
-										<ul>
-											<li><a href="#">About</a></li>
-											<li><a href="#">What we do</a>
-												<ul>
-													<li><a href="#">Dolore ipsu</a></li>
-													<li><a href="#">Consecte</a></li>
-													<li><a href="#">Elit conseq</a></li>
-												</ul>
-											</li>
-											<li><a href="#">Folio</a></li>
-											<li><a href="#">Blog</a></li>
-											<li><a href="#">Mail</a></li>
-										</ul>
-									</li>
-									<li><a href="index-2.html">What we do</a></li>
-									<li><a href="index-3.html">Folio</a></li>
-									<li><a href="index-4.html">Blog</a></li>
-									<li><a href="index-5.html">Mail</a></li>
+									<li class="current"><a href="index.php">Главная</a></li>
+									<li><a href="about.php">О нас</a></li>
+									<li><a href="services.php">Услуги и направления</a></li>
+									<li><a href="products.php">Продукты</a></li>
+									<li><a href="projects.php">Проекты</a></li>
+									<li><a href="contacts.php">Контакты</a></li>
 								</ul>
 							</nav>
 							<!--=======================-->

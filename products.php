@@ -8,7 +8,7 @@
             <div class="row">
                 <div class="grid_12">
                     <!--=======================-->
-                    <h2 class="text-6 box-3-1 color-4 wow fadeInUp">Featured projects</h2>
+                    <h2 class="text-6 box-3-1 color-4 wow fadeInUp">Наши продукты</h2>
                     <!--=======================-->
                 </div>
                 <div class="gallery">

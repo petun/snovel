@@ -9,21 +9,19 @@
 			<div class="row">
 				<div class="grid_12">
 					<!--=======================-->
-					<h2 class="text-6 box-3-1 color-4 wow fadeInUp">Contact info</h2>
+					<h2 class="text-6 box-3-1 color-4 wow fadeInUp">Контакты</h2>
 					<!--=======================-->
 				</div>
 				<div class="grid_12">
 					<!--=======================-->
 					<section class="map" >
-						<div class="google-map-api">
-							<div id="map-canvas" class="gmap"></div>
-						</div>
+						<script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=EpiyROxAxGRSUb--6TsYoLDCa5xxeh7k&width=100%&height=450&lang=ru_RU&sourceType=constructor"></script>
 					</section>
 					<!--=======================-->
 				</div>
 				<div class="grid_4">
 					<!--=======================-->
-					<h2 class="text-6 box-3-3 color-4 wow fadeInUp">Address</h2>
+					<h2 class="text-6 box-3-3 color-4 wow fadeInUp">Адрес</h2>
 					<address class="address wow fadeInLeft">
 						<dl>
 							<dt><span class="text-4 color-4">9870 St Vincent Place,<br>Glasgow, DC 45 Fr 4</span></dt>
@@ -37,7 +35,7 @@
 				</div>
 				<div class="grid_8">
 					<!--=======================-->
-					<h2 class="text-6 box-3-3 color-4 wow fadeInUp">Contact form</h2>
+					<h2 class="text-6 box-3-3 color-4 wow fadeInUp">Обратная связь</h2>
 					<form id="contact-form">
 						<div class="contact-form-loader"></div>
 						<fieldset>

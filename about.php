@@ -5,7 +5,7 @@
 			<div class="row">
 				<div class="grid_12">
 					<!--=======================-->
-					<h2 class="text-6 box-3-1 color-4 wow fadeInUp">company profile</h2>
+					<h2 class="text-6 box-3-1 color-4 wow fadeInUp">О компании</h2>
 					<!--=======================-->
 				</div>
 				<div class="grid_5">
@@ -32,78 +32,7 @@
 			<div class="row">
 				<div class="grid_12">
 					<!--=======================-->
-					<h2 class="text-6 box-3-2 color-4 wow fadeInUp">the team</h2>
-					<!--=======================-->
-				</div>
-				<div class="grid_12">
-					<!--=======================-->
-					<div class="block-2 sequence-2 bg-color-7 color-1 wow fadeInLeft">
-						<div class="block-2_section-3"><img src="images/page2_img2.jpg" alt=""></div>
-						<div class="block-2_section-1">
-							<div class="box-1-1 text-2 maxheight1">
-								<p>Nunc risus magna, imperdiet id gravida id, faucibus a libero. Sed eget nisl at massa hendrerit</p>
-								<div class="text-4">Bradley Grosh</div>
-								<div>
-									<a href="#" class="sequence-5 fa fa-skype icon-1 hover-color-8"></a>
-									<a href="#" class="sequence-5 fa fa-twitter icon-1 hover-color-8"></a>
-									<a href="#" class="sequence-5 fa fa-youtube icon-1 hover-color-8"></a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="block-2 sequence-2 bg-color-8 color-1 wow fadeInRight">
-						<div class="block-2_section-3"><img src="images/page2_img3.jpg" alt=""></div>
-						<div class="block-2_section-1">
-							<div class="box-1-1 text-2 maxheight1">
-								<p>Sed eget nisl at massa hendrerit blandit sed vel turpis. Sed porttitor leo quis sem facilisis laore</p>
-								<div class="text-4">John McCoist</div>
-								<div>
-									<a href="#" class="sequence-5 fa fa-skype icon-1 hover-color-7"></a>
-									<a href="#" class="sequence-5 fa fa-twitter icon-1 hover-color-7"></a>
-									<a href="#" class="sequence-5 fa fa-youtube icon-1 hover-color-7"></a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="block-2 sequence-2 bg-color-8 color-1 wow fadeInLeft">
-						<div class="block-2_section-3"><img src="images/page2_img4.jpg" alt=""></div>
-						<div class="block-2_section-1">
-							<div class="box-1-1 text-2 maxheight1">
-								<p>Hendrerit blandit sed vel turpi sed porttitor leo quis sem faci lisis laoreet. Vivamus tem</p>
-								<div class="text-4">Camala Haddon</div>
-								<div>
-									<a href="#" class="sequence-5 fa fa-skype icon-1 hover-color-7"></a>
-									<a href="#" class="sequence-5 fa fa-twitter icon-1 hover-color-7"></a>
-									<a href="#" class="sequence-5 fa fa-youtube icon-1 hover-color-7"></a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="block-2 sequence-2 bg-color-7 color-1 wow fadeInRight">
-						<div class="block-2_section-3"><img src="images/page2_img5.jpg" alt=""></div>
-						<div class="block-2_section-1">
-							<div class="box-1-1 text-2 maxheight1">
-								<p>Facilisis laoreet. Vivamus tem por justo quis elit auctor, idvar ius mauris gravida. Duis effi</p>
-								<div class="text-4">Patrick Pool</div>
-								<div>
-									<a href="#" class="sequence-5 fa fa-skype icon-1 hover-color-8"></a>
-									<a href="#" class="sequence-5 fa fa-twitter icon-1 hover-color-8"></a>
-									<a href="#" class="sequence-5 fa fa-youtube icon-1 hover-color-8"></a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<!--=======================-->
-				</div>
-			</div>
-		</div>
-	</article>
-	<article>
-		<div class="container">
-			<div class="row">
-				<div class="grid_12">
-					<!--=======================-->
-					<h2 class="text-6 box-3-3 color-4 wow fadeInUp">What we offer</h2>
+					<h2 class="text-6 box-3-3 color-4 wow fadeInUp">Что мы предлагаем?</h2>
 					<!--=======================-->
 				</div>
 				<div class="grid_4">

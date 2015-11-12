@@ -9,42 +9,7 @@
 			<div class="row">
 				<div class="grid_12">
 					<!--=======================-->
-					<h2 class="text-6 box-3-1 color-4 wow fadeInUp">Our services</h2>
-					<!--=======================-->
-				</div>
-				<div class="grid_12">
-					<!--=======================-->
-					<div id="accordion" class="block-accordion wow fadeInLeft">
-						<div class="block-accordion_header text__uppercase text__regular color-4">Fusce euismod consequat ante. Lorem ipsum dolor sit amet consectetuer </div>
-						<p class="block-accordion_content active">Cras eros nulla, porta ut est in, cursus egestas velit. Cras quis bib endum odio, in condimentum ante. Aliquam gravida mauris sed imperdiet porttitor. Vestibulum feugiat nulla id massa porta varius. Pha sellus dui sem, volutpat quis dignissim vitae, auctor quis nu nc. Duis malesuada, elit nec faucibus feugiat, ligula arcu porta erat, quis molestie justo nulla ac mi. Ut ultricies ante Fusce euismod conseq uat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, </p>
-						<div class="block-accordion_header text__uppercase text__regular color-4">Pellentesque sed dolor Aliquam congue fermentum nisl Mauris </div>
-						<p class="block-accordion_content">Cras eros nulla, porta ut est in, cursus egestas velit. Cras quis bib endum odio, in condimentum ante. Aliquam gravida mauris sed imperdiet porttitor. Vestibulum feugiat nulla id massa porta varius. Pha sellus dui sem, volutpat quis dignissim vitae, auctor quis nu nc. Duis malesuada, elit nec faucibus feugiat, ligula arcu porta erat, quis molestie justo nulla ac mi. Ut ultricies ante Fusce euismod conseq uat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, </p>
-						<div class="block-accordion_header text__uppercase text__regular color-4">Aliquam congue fermentum nisl. Mauris accumsan nulla </div>
-						<p class="block-accordion_content">Cras eros nulla, porta ut est in, cursus egestas velit. Cras quis bib endum odio, in condimentum ante. Aliquam gravida mauris sed imperdiet porttitor. Vestibulum feugiat nulla id massa porta varius. Pha sellus dui sem, volutpat quis dignissim vitae, auctor quis nu nc. Duis malesuada, elit nec faucibus feugiat, ligula arcu porta erat, quis molestie justo nulla ac mi. Ut ultricies ante Fusce euismod conseq uat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, </p>
-						<div class="block-accordion_header text__uppercase text__regular color-4">Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing</div>
-						<p class="block-accordion_content">Cras eros nulla, porta ut est in, cursus egestas velit. Cras quis bib endum odio, in condimentum ante. Aliquam gravida mauris sed imperdiet porttitor. Vestibulum feugiat nulla id massa porta varius. Pha sellus dui sem, volutpat quis dignissim vitae, auctor quis nu nc. Duis malesuada, elit nec faucibus feugiat, ligula arcu porta erat, quis molestie justo nulla ac mi. Ut ultricies ante Fusce euismod conseq uat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, </p>
-						<div class="block-accordion_header text__uppercase text__regular color-4">vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede </div>
-						<p class="block-accordion_content">Cras eros nulla, porta ut est in, cursus egestas velit. Cras quis bib endum odio, in condimentum ante. Aliquam gravida mauris sed imperdiet porttitor. Vestibulum feugiat nulla id massa porta varius. Pha sellus dui sem, volutpat quis dignissim vitae, auctor quis nu nc. Duis malesuada, elit nec faucibus feugiat, ligula arcu porta erat, quis molestie justo nulla ac mi. Ut ultricies ante Fusce euismod conseq uat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, </p>
-					</div>
-					<!--=======================-->
-				</div>
-				<div class="grid_12">
-					<!--=======================-->
-					<div class="block-6 bg-color-8 color-1 wow fadeInRight">
-						<div class="block-6_section-1">Strategy</div>
-						<div class="block-6_section-2"><span class="fa fa-folder-open"></span>Trading Systems Development</div>
-					</div>
-					<!--=======================-->
-				</div>
-			</div>
-		</div>
-	</article>
-	<article>
-		<div class="container">
-			<div class="row">
-				<div class="grid_12">
-					<!--=======================-->
-					<h2 class="text-6 box-3-5 color-4 wow fadeInUp">Why choose us</h2>
+					<h2 class="text-6 box-3-5 color-4 wow fadeInUp">Наши услуги</h2>
 					<!--=======================-->
 				</div>
 				<div class="grid_6">
@@ -77,7 +42,7 @@
 			<div class="row">
 				<div class="grid_12">
 					<!--=======================-->
-					<h2 class="text-6 box-3-6 color-4 wow fadeInUp">Services list</h2>
+					<h2 class="text-6 box-3-6 color-4 wow fadeInUp">Список услуг</h2>
 					<!--=======================-->
 				</div>
 				<div class="grid_3">
