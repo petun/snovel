@@ -1,0 +1,23 @@
+
+.circle {
+  behavior: url(js/PIE.htc); 
+  position: relative;
+}
+
+.gallery_item .overlayer { 
+  background: url(../images/gall_expand.png) 50% 50% no-repeat;
+}
+
+.gallery_item .overlayer:hover { 
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#4c000000', endColorstr='#4c000000');
+}
+
+
+/* Contact Form Processing Box
+========================================================*/
+#contact-form .contact-form-loader { display: none; }
+#contact-form.processing .contact-form-loader { display: block; }
+.inner .item a .fa { display: none !important	; }
+.inner .item a:hover .fa { display: block !important; }
+.inner .item a .magnifier-overlay {	display: none !important; }
+.inner .item a:hover .magnifier-overlay {	display: block !important; }
