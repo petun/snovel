@@ -8,20 +8,20 @@
 				<div class="row">
 					<div class="grid_3">
 						<!--=======================-->
-						<div class="fbox-4 text-7 color-4">Navigation</div>
+						<div class="fbox-4 text-7 color-4">Навигация</div>
 						<ul class="list-1 text-8">
-							<li><a href="index.html">Home</a></li>
-							<li><a href="index-1.html">About</a></li>
-							<li><a href="index-2.html">What we do</a></li>
-							<li><a href="index-3.html">Folio</a></li>
-							<li><a href="index-4.html">Blog</a></li>
-							<li><a href="index-5.html">Contacts</a></li>
+							<li><a href="index.php">Главная</a></li>
+							<li><a href="about.php">О нас</a></li>
+							<li><a href="services.php">Услуги и направления</a></li>
+							<li><a href="products.php">Продукты</a></li>
+							<li><a href="projects.php">Проекты</a></li>
+							<li><a href="contacts.php">Контакты</a></li>
 						</ul>
 						<!--=======================-->
 					</div>
 					<div class="grid_3">
 						<!--=======================-->
-						<div class="fbox-4 text-7 color-4">For members</div>
+						<div class="fbox-4 text-7 color-4">Наши партнеры</div>
 						<ul class="list-1 text-8">
 							<li><a href="#">Forums</a></li>
 							<li><a href="#">Promotions</a></li>
@@ -32,7 +32,7 @@
 					</div>
 					<div class="grid_3">
 						<!--=======================-->
-						<div class="fbox-4 text-7 color-4">Follow us</div>
+						<div class="fbox-4 text-7 color-4">Мы в социальных сетях</div>
 						<ul class="list-1 text-8">
 							<li><a href="#">Twitter</a></li>
 							<li><a href="#">Facebook</a></li>
@@ -59,7 +59,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="grid_12">
-					Unitex &copy; <span id="copyright-year"></span> • <a href="#">Privacy Policy</a>
+					Сновел &copy; <span id="copyright-year"></span> • <a href="#">Privacy Policy</a>
 				</div>
 			</div>
 		</div>
