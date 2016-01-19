@@ -66,7 +66,7 @@ include("_header.php");
             <div class="grid_12">
                 <!--=======================-->
                 <a href="#" class="block-2_hover">
-                    <div class="block-2 sequence-2 bg-color-5 color-1 wow fadeInLeft">
+                    <div class="block-2 sequence-2 bg-color-sandy-brown color-1 wow fadeInLeft">
                         <div class="block-2_section-2"><img src="images/page1_img1.jpg" alt=""></div>
                         <div class="block-2_section-1">
                             <div class="box-1">
@@ -77,7 +77,7 @@ include("_header.php");
                     </div>
                 </a>
                 <a href="#" class="block-2_hover">
-                    <div class="block-2 sequence-2 bg-color-6 color-1 wow fadeInRight">
+                    <div class="block-2 sequence-2 bg-color-chocolate color-1 wow fadeInRight">
                         <div class="block-2_section-2"><img src="images/page1_img2.jpg" alt=""></div>
                         <div class="block-2_section-1">
                             <div class="box-1">
@@ -88,7 +88,7 @@ include("_header.php");
                     </div>
                 </a>
                 <a href="#" class="block-2_hover">
-                    <div class="block-2 sequence-2 bg-color-7 color-1 wow fadeInLeft">
+                    <div class="block-2 sequence-2 bg-color-firebrick color-1 wow fadeInLeft">
                         <div class="block-2_section-3"><img src="images/page1_img3.jpg" alt=""></div>
                         <div class="block-2_section-1">
                             <div class="box-1">
@@ -99,7 +99,7 @@ include("_header.php");
                     </div>
                 </a>
                 <a href="#" class="block-2_hover">
-                    <div class="block-2 sequence-2 bg-color-8 color-1 wow fadeInRight">
+                    <div class="block-2 sequence-2 bg-color-tan color-1 wow fadeInRight">
                         <div class="block-2_section-3"><img src="images/page1_img4.jpg" alt=""></div>
                         <div class="block-2_section-1">
                             <div class="box-1">
@@ -129,11 +129,6 @@ include("_header.php");
                     <div class="text-3">Vestibulum iaculis lacinia est. Proin dictum elementum veli</div>
                     <p>Gravida atcur ecuus istique orci ac sis ultricpharetra gna. Donec accusan malsuada orcnc sit amet eros. Lorem ipsum dolor sit at consc tetuer aiing elit. Mauris fermentum tmagna. Sed laoreet aliquam leo. Ut te doloibusget elentu vel cursus eleind elit.<br>Aenean auctor wrnaiqua volutpat. Duis ac turpis.</p>
                 </div>
-                <!--=======================-->
-            </div>
-            <div class="preffix_1 grid_10">
-                <!--=======================-->
-                <div class="block-video wow fadeInUp"><iframe src="//www.youtube.com/embed/2kodXWejuy0?wmode=transparent"></iframe></div>
                 <!--=======================-->
             </div>
         </div>

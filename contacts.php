@@ -28,7 +28,7 @@
 							<dd><span>Freephone:</span>+1 800 559 6580</dd>
 							<dd><span>Telephone:</span>+1 800  603 6035</dd>
 							<dd><span>FAX:</span>+1 800  889 9898</dd>
-							<dd>E-mail: <a href="mailto:mail@demolink.org" class="text__underline color-7">mail@demolink.org</a></dd>
+							<dd>E-mail: <a href="mailto:mail@demolink.org" class="text__underline color-chocolate">mail@demolink.org</a></dd>
 						</dl>
 					</address>
 					<!--=======================-->
