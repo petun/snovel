@@ -4,14 +4,16 @@
 							CONTENT
   =========================================================-->
 <section id="content">
+	<div class="row">
+		<div class="grid_12">
+			<!--=======================-->
+			<h2 class="text-6 box-3-5 color-4 wow fadeInUp">Наши услуги</h2>
+			<!--=======================-->
+		</div>
+	</div>
 	<article>
 		<div class="container">
 			<div class="row">
-				<div class="grid_12">
-					<!--=======================-->
-					<h2 class="text-6 box-3-5 color-4 wow fadeInUp">Наши услуги</h2>
-					<!--=======================-->
-				</div>
 				<div class="grid_6">
 					<!--=======================-->
 					<div class="box-5 wow fadeInLeft">

@@ -2045,7 +2045,7 @@ a:hover {
   color: $color-brown;
 }
 
-.sf-menu > li.current > a, .sf-menu > li.sfHover > a {
+.sf-menu > li.active > a, .sf-menu > li.sfHover > a {
   color: $color-sandy-brown;
 }
 
@@ -2077,4 +2077,9 @@ a:hover {
 
 .list-2 li:before {
   color: $color-brown;
+}
+
+
+strong {
+  font-weight: bold;
 }

@@ -80,7 +80,7 @@
 							<h1><a href="index.php">Сновел</a></h1>
 							<nav>
 								<ul class="sf-menu">
-									<li class="current"><a href="index.php">Главная</a></li>
+									<li class="active"><a href="index.php">Главная</a></li>
 									<li><a href="about.php">О нас</a></li>
 									<li><a href="services.php">Услуги и направления</a></li>
 									<li><a href="products.php">Продукты</a></li>

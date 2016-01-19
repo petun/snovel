@@ -1668,7 +1668,7 @@ a:hover {
 .stuck_wrapper h1 {
   color: #A52A2A; }
 
-.sf-menu > li.current > a, .sf-menu > li.sfHover > a {
+.sf-menu > li.active > a, .sf-menu > li.sfHover > a {
   color: #F4A460; }
 
 .block-slider_section-4 .btn {
@@ -1692,5 +1692,8 @@ a:hover {
 
 .list-2 li:before {
   color: #A52A2A; }
+
+strong {
+  font-weight: bold; }
 
 /*# sourceMappingURL=style.css.map */

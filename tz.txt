@@ -7,3 +7,10 @@
 ++ проекты - список проектов с описанием
 
 ++ контакты само сабой ))
+
+
+//todo Fix sort in catalog and projects
+//todo Fix script errors in contacts page
+//todo write google docs and video
+//todo add petun/forms to contact page
+//todo add style for text page
