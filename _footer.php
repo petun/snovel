@@ -42,10 +42,15 @@
 					</div>
 					<div class="grid_3">
 						<!--=======================-->
-						<div class="fbox-4 text-7 color-4">Our location</div>
+						<div class="fbox-4 text-7 color-4">Social networks</div>
 						<div class="fbox-5 text89">
-							<p>9870 ST VINCENT PLACE,<br>GLASGOW, DC 45 FR 45.</p>
-							<p>TELEPHONE: +1 800 603 6035<br>FAX: +1 800 889 9898</p>
+							<div class="social">
+								<a href="" target="_blank"><img src="images/icon-vk.png" alt="" /></a>
+								<a href="" target="_blank"><img src="images/icon-odn.png" alt="" /></a>
+								<a href="" target="_blank"><img src="images/icon-facebook.png" alt="" /></a>
+								<a href="" target="_blank"><img src="images/icon-youtube.png" alt="" /></a>
+								<a href="" target="_blank"><img src="images/icon_instagram.png" alt="" /></a>
+							</div>
 						</div>
 						<!--=======================-->
 					</div>
@@ -67,6 +72,9 @@
 </footer>
 
 <script src="js/script.js"></script>
+
+<script src="js/modal.js"></script>
+<script src="js/TMForm.js"></script>
 
 </body>
 </html>

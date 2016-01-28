@@ -566,7 +566,7 @@ h1 {
   padding: 40px 10px 44px;
   margin-bottom: 19px; }
   .block-4_section-1:before {
-    content: "";
+    content: "яДН";
     font-family: FontAwesome;
     font-size: 27px !important;
     line-height: 27px !important;
@@ -576,7 +576,7 @@ h1 {
     margin-left: -33px;
     color: #2b2a28; }
   .block-4_section-1:after {
-    content: "";
+    content: "яДО";
     font-family: FontAwesome;
     font-size: 27px !important;
     line-height: 27px !important;
@@ -860,7 +860,7 @@ h1 {
     position: relative;
     padding: 0 0 0 22px; }
     .list-2 li:before {
-      content: "";
+      content: "яД╕";
       display: block;
       font-family: FontAwesome;
       font-size: 13px;
@@ -1695,5 +1695,91 @@ a:hover {
 
 strong {
   font-weight: bold; }
+
+.social {
+  overflow: hidden; }
+  .social a {
+    display: block;
+    float: left;
+    margin: 0 10px 0 0; }
+    .social a img {
+      max-width: 32px; }
+
+/* text block */
+.text {
+  line-height: 150%; }
+
+.text h1, .text h2, .text h3, .text h4, .text h5 {
+  margin: 0 0 10px;
+  float: none;
+  font-weight: 400;
+  color: #33323a; }
+
+.text h1 {
+  font-size: 60px;
+  line-height: 60px; }
+
+.text h2 {
+  font-size: 50px;
+  line-height: 50px; }
+
+.text h3 {
+  font-size: 40px;
+  line-height: 40px; }
+
+.text h4 {
+  font-size: 30px;
+  line-height: 30px; }
+
+.text h5 {
+  font-size: 20px;
+  line-height: 20px; }
+
+.text p {
+  margin: 0 0 15px; }
+
+.text a {
+  text-decoration: none; }
+
+.text a:hover {
+  text-decoration: underline; }
+
+.text strong {
+  font-weight: bold; }
+
+.text em {
+  font-style: italic; }
+
+.text blockquote {
+  padding: 10px;
+  background: #eee;
+  border-left: 7px #999 solid;
+  margin: 0 0 15px; }
+
+.text img {
+  padding: 2px;
+  border: 1px #eee solid;
+  margin: 0 5px 5px 0; }
+
+.text ul {
+  margin: 0 0 15px 20px; }
+
+.text ul li {
+  padding: 0; }
+
+.text table {
+  border-collapse: collapse;
+  margin: 0 0 15px; }
+
+.text table td, .text table th {
+  padding: 5px;
+  border: 1px #eee solid; }
+
+.text table th {
+  text-align: center;
+  font-weight: bold; }
+
+.ta-right {
+  text-align: right; }
 
 /*# sourceMappingURL=style.css.map */

@@ -40,29 +40,29 @@
 						<div class="contact-form-loader"></div>
 						<fieldset>
 							<label class="name">
-								<input type="text" name="name" placeholder="Name*" value="" data-constraints="@Required @JustLetters">
-								<span class="empty-message">*This field is required.</span>
-								<span class="error-message">*This is not a valid name.</span>
+								<input type="text" name="name" placeholder="Имя*" value="" data-constraints="@Required @JustLetters">
+								<span class="empty-message">*Это поле обязательно для заполнения.</span>
+								<span class="error-message">*Не верное имя.</span>
 							</label>
 							<label class="email">
 								<input type="text" name="email" placeholder="Email*" value="" data-constraints="@Required @Email">
-								<span class="empty-message">*This field is required.</span>
-								<span class="error-message">*This is not a valid email.</span>
+								<span class="empty-message">*Это поле обязательно для заполнения.</span>
+								<span class="error-message">*Не верный email адрес.</span>
 							</label>
 							<label class="phone">
-								<input type="text" name="phone" placeholder="Phone" value="" data-constraints="@JustNumbers">
-								<span class="empty-message">*This field is required.</span>
-								<span class="error-message">*This is not a valid phone.</span>
+								<input type="text" name="phone" placeholder="Телефон" value="" data-constraints="@JustNumbers">
+								<span class="empty-message">*Это поле обязательно для заполнения</span>
+								<span class="error-message">*Не верный номер телефона.</span>
 							</label>
 							<label class="message">
-								<textarea name="message" placeholder="Message*" data-constraints='@Required @Length(min=20,max=999999)'></textarea>
-								<span class="empty-message">*This field is required.</span>
-								<span class="error-message">*The message is too short.</span>
+								<textarea name="message" placeholder="Сообщение*" data-constraints='@Required @Length(min=20,max=999999)'></textarea>
+								<span class="empty-message">*Это поле обязательно для заполнения.</span>
+								<span class="error-message">*Сообщение слишком короткое.</span>
 							</label>
 
 							<div class="contact-form_bottom-section">
-								<a href="#" class="btn" data-type="submit">Send</a>
-								<div>*required fields</div>
+								<a href="#" class="btn" data-type="submit">Отправить</a>
+								<div>*обязательные поля</div>
 							</div>
 						</fieldset>
 						<div class="modal fade response-message">
@@ -70,10 +70,10 @@
 								<div class="modal-content">
 									<div class="modal-header">
 										<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-										<h4 class="modal-title">Modal title</h4>
+										<h4 class="modal-title">Сообщение отправлено</h4>
 									</div>
 									<div class="modal-body">
-										You message has been sent! We will be in touch soon.
+										Ваше сообщение успешно отправлено! Мы с вами свяжемся как можно быстрее.
 									</div>
 								</div>
 							</div>

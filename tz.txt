@@ -1,16 +1,4 @@
-О НАС  :|: УСЛУГИ И НАПРАВЛЕНИЯ  :|: ПРОДУКТЫ  :|: ПРОЕКТЫ  :|: КОНТАКТЫ
-
-++ О нас - просто текст с красивой картинкой
-
-++ Услуги и направления - раздел с подразделами о услугах и направлениях охватываемых компанией
-++ Продукты - это продукты которая компания продает как конечный продукт : список продуктов
-++ проекты - список проектов с описанием
-
-++ контакты само сабой ))
+http://livedemo00.template-help.com/wt_52655/index-5.html
 
 
-//todo Fix sort in catalog and projects
-//todo Fix script errors in contacts page
 //todo write google docs and video
-//todo add petun/forms to contact page
-//todo add style for text page
